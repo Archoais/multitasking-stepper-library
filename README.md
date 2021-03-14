@@ -1,7 +1,7 @@
 # multitasking-stepper-library
 
 
-**Library Currently under construction!**
+**WARNING: Library Currently under construction!!**
 
 An arduino library to control up to 6 steppers in a multitasking fashion, due to pin limitations in one board. Different speeds, directions, number of steps and acceleration.
 
