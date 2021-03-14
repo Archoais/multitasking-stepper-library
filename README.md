@@ -3,7 +3,7 @@
 
 **WARNING: Library Currently under construction!!**
 
-An arduino library to control up to 6 steppers in a multitasking fashion, due to pin limitations in one board. Different speeds, directions, number of steps and acceleration.
+An arduino library to control up to 6 steppers in a multitasking fashion (12 pins on the board, two per stepper). Different speeds, directions, number of steps and acceleration.
 
 Theoretically number of steppers that can be controlled is only limited by the stack memory of the arduino and the number of addresses on the I2C bus, if each motor has a separate encoder which interfaces via I2C.
 
